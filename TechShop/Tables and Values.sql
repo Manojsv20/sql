@@ -30,7 +30,7 @@ OrderDate date,
 TotalAmount int
 );
 
--- 4. create orderDetail table
+-- 4. create orderDetail table 
 create table  OrderDetails
 (
 OrderDetailId int primary key,
